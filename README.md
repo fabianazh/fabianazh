@@ -39,8 +39,7 @@ A passionate Full Stack Web Developer with a strong background in software engin
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
 
 <br />
-
----
+#
 
 ### 📊 Stats
 
