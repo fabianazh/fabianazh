@@ -37,13 +37,17 @@ A passionate Full Stack Web Developer with a strong background in software engin
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" /> 
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
-<br /> 
+
+<br />
+
+---
 
 ### 📊 Stats
 
-<div align="left" style="margin-bottom:1rem;">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=fabianazh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<br />
 <div align="left"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabianazh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
